@@ -2,7 +2,7 @@
 
 > **Note:** This README provides a concise overview of the project, methodology and key findings. For the complete analysis, including the literature review, econometric framework, statistical outputs, robustness checks and full discussion of results, please refer to the accompanying PDF report:
 >
-[Analysis of the Consequences of a Global Economy under Recent Events.pdf](Analysis%20of%20the%20Consequences%20of%20a%20Global%20Economy%20under%20Recent%20Events..pdf)
+[Analysis of the Consequences of a Global Economy given Geopolitical Events.pdf](Analysis%20of%20the%20Consequences%20of%20a%20Global%20Economy%20given%20Geopolitical%20Events.pdf)
 
 # Oil Price Shocks and the UK Economy
 
