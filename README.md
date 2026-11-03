@@ -2,7 +2,7 @@
 
 > **Note:** This README provides a concise overview of the project, methodology and key findings. For the complete analysis, including the literature review, econometric framework, statistical outputs, robustness checks and full discussion of results, please refer to the accompanying PDF report:
 >
-> **`Analysis of the Consequences of Global Events on Oil Markets and Macroeconomic Stability.pdf`**
+> **`Analysis of the Consequences of a Global Economy under recent events..pdf`**
 
 # Oil Price Shocks and the UK Economy
 
